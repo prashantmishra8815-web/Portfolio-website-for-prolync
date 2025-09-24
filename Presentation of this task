@@ -1,0 +1,40 @@
+##short presentation for this project 
+
+“Our first task was to build a portfolio website using HTML and CSS as core technologies, with JavaScript and React encouraged for advanced features.
+I created a responsive portfolio website with Hero, About, Projects, and Contact sections.
+The folder contains index.html, style.css, script.js, and an assets folder.
+JavaScript adds smooth scrolling and interactivity; React can be used for reusable components in the next stage.
+
+
+ 1 – Title
+
+Title: “Portfolio Website – Internship Task”
+
+Subtitle: Built with HTML, CSS, JavaScript & React
+
+
+ 2 – Objective
+
+Build a personal portfolio website.
+
+Showcase skills, projects, and creativity.
+
+
+3 – Technologies Used
+
+HTML & CSS for structure and styling.
+
+JavaScript for interactivity.
+
+(Optional) React for dynamic components.
+
+
+4 – Features
+
+Responsive layout.
+
+Hero, About, Projects & Contact sections.
+
+Smooth scrolling navigation.
+
+Contact form.
